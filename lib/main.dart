@@ -22,7 +22,7 @@ class MainApp extends StatelessWidget {
                 color: Colors.white,
                 child: const LabeledDivider(
                   label: 'Divider Label',
-                  thickness: 8.0,
+                  thickness: 20.0,
                   color: Colors.red,
                 ),
               )
